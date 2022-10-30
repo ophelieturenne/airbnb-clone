@@ -1,9 +1,11 @@
 # Frontend Airbnb-clone build  with React JS
 
 <h1>Home Page</h1>
+
 ![Design preview for the airbnb-clone home page coding challenge](./src/design/airbnb_homepage.JPG)
 
 <h1>Search Page</h1>
+
 ![Design preview for the airbnb-clone search page coding challenge](./src/design/airbnb_searchpage.JPG)
 
 ## challenge!
